@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.common {
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 5px 10px;
+}
+.btn {
+  border: 1px solid black;
+}
+.btn:hover {
+  border: 1px solid red;
+  color: red;
+}
+.btn-click {
+  background-color: red;
+  color: white;
+  border: 1px solid #fff;
+  cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
